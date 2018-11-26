@@ -51,4 +51,9 @@ public class FindCityDaoImpl implements FindCityDao {
     public City findOne(int id) {
         return null;
     }
+
+    @Override
+    public void testGit() {
+        //测试版本冲突
+    }
 }

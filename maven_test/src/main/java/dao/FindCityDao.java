@@ -9,4 +9,6 @@ public interface FindCityDao {
     List<City> findAll();
 
     City findOne(int id);
+
+    void testGit();
 }
